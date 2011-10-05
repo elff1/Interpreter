@@ -1,0 +1,7 @@
+*.txt
+!Readme.txt
+assembler.c
+*.vcxproj
+*.filters
+*.user
+Debug/
